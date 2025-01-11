@@ -43,3 +43,8 @@ Your submission will be evaluated based on:
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+  =============================================================================================================================================================================================
+
+  ## Assignment Deployment Link: https://illustrious-concha-286cc8.netlify.app/
+  ### Note: Please note that I have moved the csv file inside the public folder to make it accssible to React/Next.js app. I have further removed the folder from the repo itself to avoid the increase of bundle size.
