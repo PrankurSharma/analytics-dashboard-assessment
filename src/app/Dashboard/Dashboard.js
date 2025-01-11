@@ -8,7 +8,6 @@ import Sales from "./Sales";
 
 export default function Dashboard() {
     const [data, setData] = useFetchData();
-    console.log("My data...", data);
     return (
         <div style={{ padding: "40px" }}>
             <h2 style={{ textAlign: "center" }}>Analytics Dashboard</h2>
